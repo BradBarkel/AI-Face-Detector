@@ -1,10 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300&display=swap');
 body {
+  background: linear-gradient(
+    45.34deg,
+    #1d2252 5.66%,
+    #72aaff 50.01%,
+    #00ffff 94.35%
+  );
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Raleway;
   width: 100vw;
   height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+canvas {
+  position: absolute;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #333;
 }
