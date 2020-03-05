@@ -3,7 +3,7 @@ AI facial recognition app that predicts your mood and age.
 
 ## Live Demo
 
-Please visit the [Demo Page](https://bradbarkel.github.io/AI-Face-Detector)) to view.
+Please visit the [Demo Page](https://bradbarkel.github.io/AI-Face-Detector) to view.
  
 ## Built With
 * JavaScript - Vanilla Js - no frameworks 
@@ -15,4 +15,4 @@ I like to make things.  Usually with code, a camera, or wood.  If you’d like t
 
 ## Acknowledgments
 * Brad Traversy - thanks for all of the inspiration and practice ideas!
-* Wes Bos - 
+* Wes Bos
